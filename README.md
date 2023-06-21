@@ -1,7 +1,6 @@
 # MyLibrary
 A library management system.
 
-# Library Management System
 
 ## Introduction
 
