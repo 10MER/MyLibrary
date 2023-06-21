@@ -28,4 +28,4 @@ The design patterns that were used are the following:
 
 ![Welcome Page](https://i.ibb.co/B2QwyMj/Screenshot-1.jpg)
 ![Sign In](https://i.ibb.co/0rnphLB/Screenshot-2.jpg)
-![User Home](https://i.ibb.co/0rnphLB/Screenshot-2.jpg)
+![User Home](https://i.ibb.co/93vBn5F/Screenshot-4.jpg)
